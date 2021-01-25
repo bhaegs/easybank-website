@@ -1,5 +1,5 @@
 # easybank-website
-Challenge and initial files from Frontend Mentor
+Challenge and initial files from <a href="https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN">Frontend Mentor</a>
 
 
 Currently a work in progress.
